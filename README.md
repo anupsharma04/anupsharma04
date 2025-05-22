@@ -22,9 +22,9 @@
 ## 🔥 Recent Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Unit Converter]([https://github.com/anupsharma04/unit-converter](https://github.com/anupsharma04/unit-conversion-python)) | CLI tool for converting units (length, weight, etc.) | Python |
-| [Quiz Game](https://github.com/anupsharma04/quiz-game) | Terminal-based quiz app that tests your brain cells | Python |
-| [Calculator](https://github.com/anupsharma04/calculator-cli) | Basic calculator with command-line vibes | Python |
+| [Unit Converter](https://github.com/anupsharma04/unit-conversion-python) | CLI tool for converting units (length, weight, etc.) | Python |
+| [Quiz Game](https://github.com/anupsharma04/quiz_game_python) | Terminal-based quiz app that tests your brain cells | Python |
+| [Calculator](https://github.com/anupsharma04/calculator-python) | Basic calculator with command-line vibes | Python |
 
 ## 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-sharma-22b36b28b/)
