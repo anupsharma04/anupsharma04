@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Anup Sharma🚀
  
 🌱 Learning **C++**, **Java**, and always refining Python fundamentals.
+
 🔭 Currently working on **small but mighty Programming projects to boost up skills**  
   
 
