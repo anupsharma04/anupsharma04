@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anup Sharma🚀
  
-🌱 Learning **C++**, brushing up on **HTML/CSS**, and always refining Python fundamentals.
-🔭 Currently working on **small but mighty Python projects**  
+🌱 Learning **C++**, **Java**, and always refining Python fundamentals.
+🔭 Currently working on **small but mighty Programming projects to boost up skills**  
   
 
 📫 How to reach me: [anupacharya140@gmail.com](mailto:anupacharya140@gmail.com)  
