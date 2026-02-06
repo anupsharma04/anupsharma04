@@ -33,7 +33,7 @@ I am a firm believer that the best software is built through collaboration.
 ---
 
 ### 📈 GitHub Stats
-[![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupsharma04&show_icons=true&theme=radical)](https://github.com/anupsharma04)
+![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupsharma04&show_icons=true&theme=radical)
 
 ---
 
