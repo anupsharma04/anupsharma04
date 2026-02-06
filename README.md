@@ -13,7 +13,6 @@ I focus on building high-fidelity simulations and management systems that demons
 |:--- |:--- |:--- |
 | **[ATM System Simulation](https://github.com/anupsharma04/ATM-System-Simulation)** | Secure banking simulation with file-based data persistence and input sanitization. | Java, File I/O |
 | **[Student Management System](https://github.com/anupsharma04/Student-Management-System-CPP)** | Modular CRUD application using OOP principles and custom sorting algorithms. | C++, STL |
-| **[Identity & Access Manager](https://github.com/anupsharma04)** | Building secure automation tools for identity management. | Python, AI |
 
 ---
 
@@ -30,7 +29,6 @@ I am a firm believer that the best software is built through collaboration.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
